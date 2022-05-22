@@ -34,5 +34,4 @@ I'm Mário, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/
 </ul>
   
 <h2>Technologies that I use:</h2>
-<br><br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
