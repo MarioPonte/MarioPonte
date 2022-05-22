@@ -33,6 +33,7 @@ I'm Mário, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/
   <li>💬 If you need any freelance work contact me</li>
 </ul>
   
-##Technologies that I use:
+<h2>Technologies that I use:</h2>
 <br><br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
