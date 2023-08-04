@@ -42,3 +42,16 @@ I'm Mário, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05034?style=for-the-badge&logo=Git&logoColor=white" />
+
+<details>
+<summary>:zap: Estatísticas do Github </summary>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussouza70&show_icons=true&locale=en&layout=compact&theme=swift" alt="matheussouza70" /></div>
+<br/>
+<br/>
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=matheussouza70&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="matheussouza70" /></div>
+<br/>
+<br/>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheussouza70&show_icons=true&locale=en&theme=swift" alt="matheussouza70" /></div>
+<br/>
+<br/>
+</details>
