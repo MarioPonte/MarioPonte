@@ -44,8 +44,9 @@ I'm Mário, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/
 <img src="https://img.shields.io/badge/Git-F05034?style=for-the-badge&logo=Git&logoColor=white" />
 
 <details>
+<br/>
 <summary>:zap: Estatísticas do Github </summary>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioPonte&show_icons=true&locale=en&layout=compact&theme=swift" alt="Readme-stats" /></div>  
-    
+<br/><br/>
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MarioPonte&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Readme-streak-stats" /></div>
 </details>
