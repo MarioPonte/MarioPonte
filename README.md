@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://marioponte.github.io/Portfolio" target="_blank">
-    <img width="100" src="https://cdn.discordapp.com/attachments/421394139008073729/972564977116393583/logopreto.png" alt="logo" />
+    <img width="100" src="https://cdn.discordapp.com/attachments/1163868374615466095/1213216838310301746/logopreto.png?ex=65f4ab3a&is=65e2363a&hm=d5f4344b17753f8b74d71e9cebe5449a6ff55594f45e889ff7295caaedc60a15&" alt="logo" />
   </a>
 </p>
 
