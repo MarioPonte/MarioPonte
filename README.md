@@ -6,23 +6,23 @@
   </a>
 </p>
 
-<p align="center" style="margin: -20px 0 30px">
-  <a href="https://www.facebook.com/mario.ponte.79/" target="_blank" style='margin-right:10px'>
+<div align="center" style="margin: -20px 0 30px">
+  <a href="https://www.facebook.com/mario.ponte.79/" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/m%C3%A1rio-ponte/" target="_blank" style='margin-right:10px'>
+  <a href="https://www.instagram.com/mariopontedev" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="facebook" height="22px" width="22px" />
+  </a>
+  <a href="https://www.linkedin.com/in/m%C3%A1rio-ponte/" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send/?phone=351934023737&text&app_absent=0" target="_blank" style='margin-right:10px'>
+  <a href="https://api.whatsapp.com/send/?phone=351934023737&text&app_absent=0" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ponteolavo30@gmail.com" target="_blank">
+  <a href="mailto:ponteolavo30@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="email" height="22px" width="22px" />
   </a>
-</p>
+</div>
 
 Welcome to my GitHub page!
 I'm Mário, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="13"/> <strong>Loulé, Portugal<strong>.
