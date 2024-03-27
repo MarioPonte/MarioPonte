@@ -6,22 +6,12 @@
   </a>
 </p>
 
-<p align="center" style="margin: -20px 0 30px">
-  <a href="https://www.facebook.com/mario.ponte.79/" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="22px" width="22px" />
-  </a>
-  <a href="https://www.instagram.com/mariopontedev" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="facebook" height="22px" width="22px" />
-  </a>
-  <a href="https://www.linkedin.com/in/m%C3%A1rio-ponte/" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=351934023737&text&app_absent=0" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="22px" width="22px" />
-  </a>
-  <a href="mailto:ponteolavo30@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="email" height="22px" width="22px" />
-  </a>
+<p align="center">
+  <a href="https://www.facebook.com/mario.ponte.79/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mário Ponte | Facebook" width="21px"/></a>
+  <a href="https://www.instagram.com/mariopontedev"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mário Ponte | Instagram" width="21px"/></a>
+  <a href="https://www.linkedin.com/in/m%C3%A1rio-ponte/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mário Ponte | LinkedIn" width="21px"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=351934023737&text&app_absent=0"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Mário Ponte | WhatsApp" width="21px"/></a>
+  <a href="mailto:ponteolavo30@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="whatsapp" alt="Mário Ponte | Email" width="21px"/></a>
 </p>
 
 Welcome to my GitHub page!
