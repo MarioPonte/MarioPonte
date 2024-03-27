@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<div align="center" style="margin: -20px 0 30px">
+<p align="center" style="margin: -20px 0 30px">
   <a href="https://www.facebook.com/mario.ponte.79/" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="22px" width="22px" />
   </a>
@@ -22,7 +22,7 @@
   <a href="mailto:ponteolavo30@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="email" height="22px" width="22px" />
   </a>
-</div>
+</p>
 
 Welcome to my GitHub page!
 I'm Mário, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="13"/> <strong>Loulé, Portugal<strong>.
