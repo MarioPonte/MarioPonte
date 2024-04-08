@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://marioponte.github.io/Portfolio" target="_blank">
-    <img width="100" src="https://cdn.discordapp.com/attachments/1163868374615466095/1213216838310301746/logopreto.png?ex=65f4ab3a&is=65e2363a&hm=d5f4344b17753f8b74d71e9cebe5449a6ff55594f45e889ff7295caaedc60a15&" alt="logo" />
+    <img width="100" src="./icons/Logo.svg" alt="logo" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/mario.ponte.79/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mário Ponte | Facebook" width="21px"/></a>
-  <a href="https://www.instagram.com/mariopontedev"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mário Ponte | Instagram" width="21px"/></a>
-  <a href="https://www.linkedin.com/in/m%C3%A1rio-ponte/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mário Ponte | LinkedIn" width="21px"/></a>
-  <a href="https://api.whatsapp.com/send/?phone=351934023737&text&app_absent=0"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Mário Ponte | WhatsApp" width="21px"/></a>
-  <a href="mailto:ponteolavo30@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="whatsapp" alt="Mário Ponte | Email" width="21px"/></a>
+  <a href="https://www.facebook.com/mario.ponte.79/"><img align="center" src="./icons/facebook.svg" alt="Mário Ponte | Facebook" width="21px"/></a>
+  <a href="https://www.instagram.com/mariopontedev"><img align="center" src="./icons/instagram.svg" alt="Mário Ponte | Instagram" width="21px"/></a>
+  <a href="https://www.linkedin.com/in/m%C3%A1rio-ponte/"><img align="center" src="./icons/linkedin.svg" alt="Mário Ponte | LinkedIn" width="21px"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=351934023737&text&app_absent=0"><img align="center" src="./icons/whatsapp.svg" alt="Mário Ponte | WhatsApp" width="21px"/></a>
+  <a href="mailto:ponteolavo30@gmail.com"><img align="center" src="./icons/email.svg" alt="whatsapp" alt="Mário Ponte | Email" width="21px"/></a>
 </p>
 
 Welcome to my GitHub page!
@@ -30,6 +30,7 @@ I'm Mário, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/
 <img src="https://img.shields.io/badge/React-45B8D8?style=for-the-badge&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind CSS-38bdf8?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05034?style=for-the-badge&logo=Git&logoColor=white" />
 
