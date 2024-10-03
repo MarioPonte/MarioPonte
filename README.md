@@ -1,7 +1,7 @@
 # Hello! I'm Mário Ponte
 
 <p align="center">
-  <a href="https://marioponte.github.io/Portfolio" target="_blank">
+  <a href="https://marioponte.vercel.app" target="_blank">
     <img width="100" src="./icons/Logo.svg" alt="logo" />
   </a>
 </p>
